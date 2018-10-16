@@ -1,0 +1,4 @@
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\WindowsFormsApplication1\obj\Debug\CapaDeDiseñoPolizasLogistica.Form1.resources
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

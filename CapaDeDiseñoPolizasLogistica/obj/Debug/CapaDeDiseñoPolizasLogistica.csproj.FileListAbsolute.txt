@@ -1,0 +1,14 @@
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\bin\Debug\CapaDeDiseñoPolizasLogistica.dll
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\bin\Debug\CapaDeDiseñoPolizasLogistica.pdb
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\bin\Debug\CapaDiseno.dll
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\bin\Debug\CapaLogica.dll
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\bin\Debug\CapaDatos.dll
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\bin\Debug\CapaDiseno.pdb
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\bin\Debug\CapaLogica.pdb
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\bin\Debug\CapaDatos.pdb
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\obj\Debug\CapaDeDiseñoPolizasLogistica.csprojResolveAssemblyReference.cache
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\obj\Debug\CapaDeDiseñoPolizasLogistica.Form1.resources
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\obj\Debug\CapaDeDiseñoPolizasLogistica.Properties.Resources.resources
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\obj\Debug\CapaDeDiseñoPolizasLogistica.csproj.GenerateResource.Cache
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\obj\Debug\CapaDeDiseñoPolizasLogistica.dll
+c:\users\valery\documents\visual studio 2015\Projects\PolizaLogistica\CapaDeDiseñoPolizasLogistica\obj\Debug\CapaDeDiseñoPolizasLogistica.pdb
